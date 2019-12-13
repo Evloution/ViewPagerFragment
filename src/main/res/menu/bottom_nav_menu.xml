@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@mipmap/homepage_icon"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_nearby"
+        android:icon="@mipmap/nearby_icon"
+        android:title="@string/title_nearby" />
+
+    <item
+        android:id="@+id/navigation_shoppingcart"
+        android:icon="@mipmap/shoppingcart_icon"
+        android:title="@string/title_shoppingcart" />
+
+    <item
+        android:id="@+id/navigation_mypage"
+        android:icon="@mipmap/mypage_icon"
+        android:title="@string/title_mypage" />
+
+</menu>

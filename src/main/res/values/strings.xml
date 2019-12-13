@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ELinkShopping</string>
+    <string name="title_home">首页</string>
+    <string name="title_nearby">附近</string>
+    <string name="title_shoppingcart">购物车</string>
+    <string name="title_mypage">我的</string>
+</resources>
