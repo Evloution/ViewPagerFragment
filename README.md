@@ -4,10 +4,6 @@
 
 ##### 效果
 
-​	![]( https://github.com/Evloution/ViewPagerFragment/blob/master/images/0c3b90a96ba604b256782f72f9e8630.jpg )
-
-![]( https://github.com/Evloution/ViewPagerFragment/blob/master/images/227acdcd688e931dc044f9a2315dcb6.jpg )
-
 ![]( https://github.com/Evloution/ViewPagerFragment/blob/master/images/Video_20191213_040453_183.gif )
 
 
